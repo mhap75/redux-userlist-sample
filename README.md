@@ -23,8 +23,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/mhap75/redux-userlist-sample
+```bash
+git clone https://github.com/mhap75/redux-userlist-sample
 
 2. Navigate to the project directory:
 
